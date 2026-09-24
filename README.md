@@ -1,6 +1,6 @@
 # FizzBuzzNET
 
-FizzBuzz
+[FizzBuzz
 /problems/fizzbuzz/file/statement/en/img-0001.png
 Image by chris morgan cc by
 According to Wikipedia, FizzBuzz is a group word game for children to teach them about division. This may or may not be true, but this question is generally used to torture screen young computer science graduates during programming interviews.
@@ -57,3 +57,4 @@ Fizz
 Buzz
 Fizz
 7
+](https://open.kattis.com/problems/fizzbuzz?editresubmit=20509967#:~:text=Hide-,FizzBuzz,1%0A2%0AFizz%0A4%0ABuzz%0AFizz%0A7,-Edit%20%26%20Submit)
