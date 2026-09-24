@@ -7,7 +7,7 @@ According to Wikipedia, FizzBuzz is a group word game for children to teach them
 
 
 ## Solution to the problem
-
+`
 static void Main(string[] args)
 {
     string[] input = Console.ReadLine().Split();
@@ -39,7 +39,7 @@ public static void FizzBuzz(int x, int y, int n)
         }
     }
 }
-
+`
 
 
 
