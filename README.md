@@ -1,9 +1,9 @@
 # FizzBuzz
-According to Wikipedia, FizzBuzz is a group word game for children to teach them about division. This may or may not be true, but this question is generally used to torture screen young computer science graduates during programming interviews.
+FizzBuzz is a common way for companies to measure if a candiate for a position as a system developer in the company can or can not solve a simple programming problem.
+
 
 ## Information about the problem we want to solve
 <a name="https://open.kattis.com/problems/fizzbuzz">https://open.kattis.com/problems/fizzbuzz</a>
-
 
 
 ## Solution to the problem
