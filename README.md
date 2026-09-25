@@ -11,5 +11,5 @@ FizzBuzz is a common way for companies to measure if a candiate for a position a
 
 
 ## Solution to the problem
-<a name="https://github.com/1x4x/FizzBuzzNET/blob/master/Program.cs">[https://open.kattis.com/problems/fizzbuzz](https://github.com/1x4x/FizzBuzzNET/blob/master/Program.cs)</a>
+<a name="https://github.com/1x4x/FizzBuzzNET/blob/master/Program.cs">https://github.com/1x4x/FizzBuzzNET/blob/master/Program.cs</a>
 
