@@ -6,6 +6,7 @@ namespace FizzBuzzNET
     {
         static void Main(string[] args)
         {
+            // https://open.kattis.com/problems/fizzbuzz
             string[] input = Console.ReadLine().Split();
             int x = int.Parse(input[0]);
             int y = int.Parse(input[1]);
